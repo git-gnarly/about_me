@@ -1,1 +1,1 @@
-Git noob here, learning thee ropes!
+Git noob here, learning the ropes!
